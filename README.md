@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hawadoh
 - 👀 I’m interested in learning new stuff.
-- 🌱 I’m currently learning Python
+- 🛠️ I'm intermediate at Java!
+- 🌱 I’m currently learning: Python, HTML5, CSS, JavaScript, C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 - Instagram: @hawadoh
